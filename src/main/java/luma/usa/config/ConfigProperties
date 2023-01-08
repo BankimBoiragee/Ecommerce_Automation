@@ -1,0 +1,14 @@
+URL=https://magento.softwaretestingboard.com/
+
+browser=chrome
+Browsername= chrome, edge, firefox, safari, opera, IE, headless
+
+userName=bankim_cse@yahoo.com
+passWord=Aritra@303
+
+LandingPageTitle = Welcome, Bankim Boiragee!
+JacketName = Jupiter All-Weather Trainer
+
+VerifyThanks=Thank you for your purchase!
+
+Verifyordernumber:000010462.
